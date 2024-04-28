@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "664823986514",
+    "project_id": "polilogin-23ae9",
+    "storage_bucket": "polilogin-23ae9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664823986514:android:26d21c27e42393eb62228b",
+        "android_client_info": {
+          "package_name": "com.dev.leonardom.loginjetpackcompose"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHdsgVryeEhBCiSHdG8JbHjTvkZXPmWDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664823986514:android:abd00dfb2f53168362228b",
+        "android_client_info": {
+          "package_name": "dev.leonardom.loginjetpackcompose"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHdsgVryeEhBCiSHdG8JbHjTvkZXPmWDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
