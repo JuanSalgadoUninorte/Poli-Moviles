@@ -1,4 +1,4 @@
-package com.dev.leonardom.introuduccionajetpackcompose.presentation
+package com.dev.poli.introuduccionajetpackcompose.presentation.screens
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column

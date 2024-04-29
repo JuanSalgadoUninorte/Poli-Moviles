@@ -1,12 +1,14 @@
-package com.dev.leonardom.introuduccionajetpackcompose.presentation.components
+package com.dev.poli.introuduccionajetpackcompose.presentation.components
 
-import androidx.compose.material.*
+import androidx.compose.material.Icon
+import androidx.compose.material.IconButton
+import androidx.compose.material.ScaffoldState
+import androidx.compose.material.Text
+import androidx.compose.material.TopAppBar
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.Menu
 import androidx.compose.material.icons.filled.Search
 import androidx.compose.runtime.Composable
-import androidx.compose.ui.platform.LocalContext
-import com.dev.leonardom.introuduccionajetpackcompose.R
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.launch
 

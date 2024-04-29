@@ -1,4 +1,4 @@
-package com.dev.leonardom.introuduccionajetpackcompose.ui.theme
+package com.dev.poli.introuduccionajetpackcompose.ui.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle

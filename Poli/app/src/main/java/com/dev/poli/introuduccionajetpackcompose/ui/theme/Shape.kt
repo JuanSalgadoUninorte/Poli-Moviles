@@ -1,4 +1,4 @@
-package com.dev.leonardom.introuduccionajetpackcompose.ui.theme
+package com.dev.poli.introuduccionajetpackcompose.ui.theme
 
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.Shapes

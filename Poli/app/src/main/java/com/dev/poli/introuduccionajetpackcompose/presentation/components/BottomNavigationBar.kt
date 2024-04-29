@@ -1,17 +1,15 @@
-package com.dev.leonardom.introuduccionajetpackcompose.presentation.components
+package com.dev.poli.introuduccionajetpackcompose.presentation.components
 
 import androidx.compose.material.BottomNavigation
 import androidx.compose.material.BottomNavigationItem
 import androidx.compose.material.Icon
 import androidx.compose.material.Text
 import androidx.compose.runtime.Composable
-import androidx.compose.runtime.getValue
 import androidx.compose.ui.graphics.Color
 import androidx.navigation.NavGraph.Companion.findStartDestination
 import androidx.navigation.NavHostController
-import androidx.navigation.compose.currentBackStackEntryAsState
-import com.dev.leonardom.introuduccionajetpackcompose.navigation.Destinations
-import com.dev.leonardom.introuduccionajetpackcompose.navigation.currentRoute
+import com.dev.poli.introuduccionajetpackcompose.navigation.Destinations
+import com.dev.poli.introuduccionajetpackcompose.navigation.currentRoute
 
 @Composable
 fun BottomNavigationBar(

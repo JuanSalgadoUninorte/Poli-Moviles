@@ -1,4 +1,4 @@
-package com.dev.leonardom.introuduccionajetpackcompose.navigation
+package com.dev.poli.introuduccionajetpackcompose.navigation
 
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.getValue
